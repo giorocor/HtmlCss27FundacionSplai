@@ -1,0 +1,26 @@
+section{
+    margin: auto;
+    text-align: justify;
+    width: 50%;
+    border-radius: 2%;
+}
+
+table{
+   
+    font-size: 1.5rem;
+    border: solid 2px;
+    background-color: rgb(171, 171, 187);
+    text-align: center;
+}
+
+tr:nth-child(1){
+    background-color: blue;
+
+}
+
+td{
+    padding: 4px;
+    margin: 4px;
+    border-spacing: 0;
+    border: solid 1px;
+}

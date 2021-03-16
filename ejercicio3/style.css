@@ -1,0 +1,35 @@
+section{
+    margin: auto;
+    text-align: justify;
+    width: 100%;
+    border-radius: 2%;
+}
+
+table{
+   width: 100%;
+    font-size: 1.5rem;
+    border: solid 2px;
+    background-color: rgb(171, 171, 187);
+    text-align: center;
+}
+
+.fontColor{
+    color: blue;
+}
+
+td{
+    padding: 4px;
+    margin: 4px;
+    border-spacing: 0;
+    border: solid 1px;
+}
+.verde{
+    background-color: green;
+}
+
+.azul{
+    background-color: blue;
+}
+.rojo{
+    background-color: red;
+}

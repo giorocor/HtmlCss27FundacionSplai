@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+td, th{
+    padding: 4px;
+    margin: 4px;
+    border-spacing: 0;
+    border: solid 1px;
+}

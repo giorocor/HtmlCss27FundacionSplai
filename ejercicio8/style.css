@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    z-index: 5;
+}
+
+section{
+    display: flex;
+    flex-direction:column;
+}
+div{
+    height: 100px;
+    width:  200px;
+    background:  url(imagenes/f01.png) bottom repeat-x, url(imagenes/f02.png) no-repeat bottom left, url(imagenes/f03.png) top repeat-x ;
+    border: solid red;
+    margin: 5px;
+    }
+
+div:nth-child(2){
+    height: 300px;
+    width: 400px;
+}
+
+
+
+
+
